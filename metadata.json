@@ -1,0 +1,6 @@
+{
+  "name": "Akal Academy Management Portal",
+  "description": "School administration portal for Akal Academy Baru Sahib with faculty attendance, master timetable matrix, substitution allocator, leave approvals, and student registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
